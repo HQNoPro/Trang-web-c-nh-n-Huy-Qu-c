@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trang web cá nhân của HQ </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>
+            Thông tin cá nhân
+            <ul>
+                <li>Họ và tên: Nguyễn Vương Huy Quốc</li>
+                <li>sinh: 27/01/2008</li>
+                <li>quê: 37-Nghệ An</li>
+                <li> môn học yêu thích: </li>
+               <li> Tin học</li>
+               <li> Toán </li>
+               <li> Vật lý</li>
+            </ul>
+        </h1>
+    </body>
+</html>
